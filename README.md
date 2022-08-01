@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sp3cim4n
-- 👀 I’m interested in Game development, languages (programming or not), mathematics and all things eldrich.
-- 🌱 I’m currently learning everything. Never stop learning. But let's get real, I am learning c++, hlsl/glsl and elegant mathematical expressions.
+- 👀 I’m interested in Game development, languages (programming or not), and mathematics. 
+- 🌱 I’m currently learning everything. Never stop learning. But let's get real, I am learning c++, hlsl/glsl and procedural content generation.
 - 📫 How to reach me - EMAIL: ashishnayak.personal@gmail.com or ashishnayak.dev@gmail.com
 
 <!---
